@@ -22,9 +22,9 @@ $result = sendPostRequest($url,[
 		// 必須項目
 		'project_id'       => 1,			              // プロジェクト
 		'subject'          => 'APIテスト',			    // 題名
-		'description'      => 'APIテスト（説明）',	// 説明
 
 		// 以下は任意で指定する
+		'description'      => 'APIテスト（説明）',	// 説明
 		//'tracker_id'       => '',			// トラッカー
 		//'status_id'        => '',			// ステータス
 		//'priority_id'      => '',			// 優先度
