@@ -24,3 +24,7 @@ $ php issue_create.php
 | file  | description  |
 | ----- | ----------------- |
 | issue_create.php | チケットの新規作成 |
+
+## Memo
+project_idの調べ方  
+https://redmine.redmine.con/issues.json?key=xxxxxxxxxxxxxxxxxxxx
