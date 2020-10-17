@@ -27,4 +27,4 @@ $ php issue_create.php
 
 ## Memo
 project_idの調べ方  
-https://redmine.redmine.con/issues.json?key=xxxxxxxxxxxxxxxxxxxx
+https://redmine.redmine.con/projects.json?key=xxxxxxxxxxxxxxxxxxxx
